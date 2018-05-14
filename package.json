@@ -1,0 +1,27 @@
+{
+  "name": "final",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^5.0.2",
+    "material-ui": "^0.20.0",
+    "material-ui-datetimepicker": "^1.0.7",
+    "moment": "^2.22.1",
+    "react": "^16.3.2",
+    "react-big-calendar": "^0.19.1",
+    "react-confirm-alert": "^2.0.2",
+    "react-csv": "^1.0.14",
+    "react-dom": "^16.3.2",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-skylight": "^0.5.1",
+    "react-table": "^6.8.2",
+    "react-toastify": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
